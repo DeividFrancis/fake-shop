@@ -1,13 +1,7 @@
 # Fake Shop
 
+# Desafio 2/3 - Desafio DevOps & Cloud by @fabricioveronez
 
-## Variável de Ambiente
-DB_HOST	=> Host do banco de dados PostgreSQL.
+Este repositório é parte do treinamento Desafio DevOps & Cloud, conduzido por @fabricioveronez. Ele contém a solução para os desafios 2 e 3, abordando conceitos fundamentais e práticas essenciais no uso de Kubernetes com AWS EKS, integração contínua com GitHub Actions, e monitoramento utilizando Prometheus e Grafana.
 
-DB_USER => Nome do usuário do banco de dados PostgreSQL.
-
-DB_PASSWORD	=> Senha do usuário do banco de dados PostgreSQL.
-
-DB_NAME	=>	Nome do banco de dados PostgreSQL.
-
-DB_PORT	=>	Porta de conexão com o banco de dados PostgreSQL.
+O objetivo deste repositório é demonstrar a aplicação prática dos conceitos aprendidos no treinamento.
